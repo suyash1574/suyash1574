@@ -219,12 +219,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suyash1574&show_icons=true&theme=cyberpunk&hide_border=false&include_all_commits=true&count_private=true" alt="Suyash's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyash1574&layout=compact&theme=cyberpunk&hide_border=false" alt="Top Languages" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suyash1574&theme=cyberpunk" alt="Suyash's GitHub Stats" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suyash1574&theme=cyberpunk" alt="Repos Per Language" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash1574&theme=cyberpunk&hide_border=false" alt="GitHub Streak Stats" width="97%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suyash1574&theme=cyberpunk" alt="Most Commit Language" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=suyash1574&theme=cyberpunk" alt="Productive Time" width="48%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=suyash1574&theme=cyberpunk" alt="GitHub Streak Stats" width="97%" />
 
 </div>
 
