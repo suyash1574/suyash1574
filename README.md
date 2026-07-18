@@ -14,6 +14,15 @@
 <a href="mailto:zinjurke77h@gmail.com"><img src="https://img.shields.io/badge/Email-zinjurke77h%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/suyash1574"><img src="https://img.shields.io/badge/GitHub-suyash1574-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
+<br/><br/>
+
+```
+     _   ___    ___               _                   _
+    /_\ |_ _|  / __|  _  _ _  _ _| |  __ _ __ _| |_  ___| |
+   / _ \ | |   \__ \ | || | || | _` |/ _` (_-< ' \  / -_)_|
+  /_/ \_\___|  |___/  \_,_|\_,_|\__,_|\__,_/__/_||_|\___(_)
+```
+
 </div>
 
 <br/>
